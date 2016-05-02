@@ -48,15 +48,16 @@ background-img: "../img/my-CV-Background.jpg"
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
+shuffle: False # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Welcome to my personal source code projects GitHub Page..."
-  - text: "Here you will find all important source code projects I'm working on..."
+  - text: "Welcome, I'm { M.C.S.D. Jorge Apodaca } ..."
+  - text: "This is my personal Portfolio Projects at GitHub..."
+  - text: "I hope you enjoy and learn with every created project..."
 
 me-img: "/img/profileLarge.png"
 
