@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Welcome to my personal source code projects GitHub Page..."
+  - text: "Here you will find all important source code projects I'm working on..."
 
 me-img: "/img/profileLarge.png"
 
