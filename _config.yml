@@ -125,7 +125,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "mcsd@jorge-apodaca.net"
 
 ################
 # Author Blurb #
@@ -136,7 +136,7 @@ email: "your@email.here"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "M.C.S.D. Jorge Apodaca is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/profile.png"
 
 ##################
 # Social Buttons #
@@ -144,13 +144,11 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/mcsdjorgeapodaca"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/licjapodaca"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/licjapodaca"
   - title: "rss"
     url: "/feed.xml"
 
